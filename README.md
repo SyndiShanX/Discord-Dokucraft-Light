@@ -6,6 +6,9 @@
 	Inspired by: Github Dark
 	This Theme is meant to be used with Discord Dark Mode
 	Uses a Modified version of Discord Dark: https://github.com/SyndiShanX/Discord-Dark
+	
+	Installation:
+	Copy dokucraft.theme.css into your Better Discord Themes Folder
 
 Preview:
 ![Chat](https://github.com/SyndiShanX/Discord-Dokucraft-Light/blob/main/Images/Dokucraft-Light-Chat.png)
